@@ -4,12 +4,12 @@
   "version": "1.7.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Muscula/html2pdf.it"
+    "url": "https://github.com/bobindian/htpdftest"
   },
   "private": false,
   "engines": {
-    "node": "0.10.x",
-    "npm": "9.5.1"
+    "node": "0.10.x"
+    
   },
   "main": "./lib/app.js",
   "dependencies": {
@@ -34,11 +34,11 @@
     "test": "_mocha"
   },
   "subdomain": "html2pdf",
-  "gitHead": "af60c5959b545ab6c21d19919e1abb503d33c5f6",
+  "gitHead": "",
   "readmeFilename": "README.md",
   "description": "html2pdf.it\r ===========\r Using PhantomJS to generate pdfs, via a webservice. Runs using node.js.",
   "bugs": {
-    "url": "https://github.com/Muscula/html2pdf.it/issues"
+    "url": "https://github.com/bobindian/htpdftest/issues"
   },
   "directories": {
     "test": "test"
